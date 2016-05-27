@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<channels>
+
+
+<channel>
+<name>[COLOR lime]•[/COLOR][COLOR orange]Series con Actualizacion en Curso[/COLOR]</name>
+<link>http://Ignoreme</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Series/9w87nkMi/seriescurso.xml</externallink>
+<thumbnail>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Series%20de%20TV.png</thumbnail>
+<fanart>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Fondo%20Ppal.jpg</fanart>
+</channel> 
+
+<channel>
+<name>[COLOR lime]•[/COLOR][COLOR orange]Series Subtituladas[/COLOR]</name>
+<link>http://Ignoreme</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Series/9w87nkMi/Series%20Subtituladas.xml</externallink>
+<thumbnail>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Series%20de%20TV.png</thumbnail>
+<fanart>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Fondo%20Ppal.jpg</fanart>
+</channel>    
+
+<channel>
+<name>[COLOR lime]•[/COLOR][COLOR orange]Series Retro[/COLOR]</name>
+<link>http://Ignoreme</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Series/9w87nkMi/seriesretro.xml</externallink>
+<thumbnail>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Series%20de%20TV.png</thumbnail>
+<fanart>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Fondo%20Ppal.jpg</fanart>
+</channel>  
+
+<channel>
+<name>[COLOR lime]•[/COLOR][COLOR orange]Coleccion de Series [/COLOR]</name>
+<link>http://Ignoreme</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Series/9w87nkMi/series.xml</externallink>
+<thumbnail>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Series%20de%20TV.png</thumbnail>
+<fanart>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Fondo%20Ppal.jpg</fanart>
+</channel>      
+
+
+
+</channels>
